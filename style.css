@@ -11,11 +11,17 @@ border-radius: 10rem;
 display: inline-block;
 padding: 0.5rem;
 }
-#square {
+.square {
     height: 3rem;
     width: 3rem;
     background: orange;
     position: fixed;
+}
+#square1 {
     top: 0;
     right: 0;
+}
+#square2 {
+    top: 0;
+    right: 3rem;
 }
