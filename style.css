@@ -14,7 +14,7 @@ padding: 0.5rem;
 .square {
     height: 3rem;
     width: 3rem;
-    background: orange;
+    background: rgb(255, 0, 242);
     position: fixed;
 }
 #square1 {
